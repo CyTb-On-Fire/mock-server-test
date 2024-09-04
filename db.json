@@ -3,12 +3,22 @@
     {
       "id": 1,
       "messages":
-        [{
-            "chat_id": 1,
-            "date_created": "05-09-2024",
-            "id": 1,
-            "text": "Hi! How are you?"
-        }]
+        [
+          {
+              "chat_id": 1,
+              "date_created": "05-09-2024",
+              "id": 1,
+              "text": "Hi! How are you?",
+              "external_sender_id": 0
+          },
+          {
+              "chat_id": 1,
+              "date_created": "05-09-2024",
+              "id": 2,
+              "text": "Fine, but i have some issues with your food",
+              "external_sender_id": 1
+          }
+        ]
       
     }
   ],
