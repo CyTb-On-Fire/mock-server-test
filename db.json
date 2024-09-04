@@ -1,14 +1,14 @@
 {
   "chats": [
     {
-      "messages": [
+      "messages":
         {
             "chat_id": 1,
             "date_created": "05-09-2024",
             "id": 1,
             "text": "Hi! How are you?"
         }
-      ]
+      
     }
   ],
   "profile": {
