@@ -1,6 +1,7 @@
 {
   "chats": [
     {
+      "id": 1,
       "messages":
         {
             "chat_id": 1,
